@@ -1,4 +1,18 @@
-print("hello world\nhehe\nvarshi")
-print("varshith" + "Sriramoju")
+#single
+'''multiple
+'''
+print("hello world\nhehe\nvarshi") #\n
+print("my name is \"varshith sriramoju\"") #\"
+print("varshith" + "Sriramoju") #string concatination
+print("varshith" +""+"Sriramoju") #same as above
 print("varshith" +" "+ "Sriramoju")
-input("whats ur name ")
+#inp is similar to print fun but it waits for inp
+name=input("whats ur name:") #just inp
+print("hello "+name+"!") #first take inp and print accordingly
+length=len(name)
+print(length)
+_num=1
+num1=1
+name="varshith"
+NAME="varshith"
+

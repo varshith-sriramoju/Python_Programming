@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4ad410-43b7-42d2-9958-2df7c7292825" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic/Basic1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTES/unit 1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTES/unit 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTES/unit 3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTES/unit 4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTES/unit 5.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/Basic1_BandNameGenerator'.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/Basic2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuickTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/Basic1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Basic1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +21,17 @@
       <list>
         <option value="Python Script" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -46,6 +52,9 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Basic1.executor": "Run",
+    "Python.Basic1_BandNameGenerator'.executor": "Run",
+    "Python.Basic2.executor": "Run",
+    "Python.QuickTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
@@ -56,7 +65,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -66,7 +75,7 @@
       <recent name="F:\interview\Python_Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Basic1">
+  <component name="RunManager">
     <configuration name="Basic1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python_Programming" />
       <option name="ENV_FILES" value="" />
@@ -117,8 +126,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
-        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
       </set>
     </attachedChunks>
   </component>
@@ -133,6 +142,9 @@
       <workItem from="1751021934872" duration="981000" />
       <workItem from="1751785376357" duration="926000" />
       <workItem from="1751786418535" duration="3999000" />
+      <workItem from="1752659086981" duration="870000" />
+      <workItem from="1752660235789" duration="2771000" />
+      <workItem from="1752740870415" duration="8355000" />
     </task>
     <servers />
   </component>
@@ -151,6 +163,9 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Programming$Basic1.coverage" NAME="Basic1 Coverage Results" MODIFIED="1751789710337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/Python_Programming$Basic2.coverage" NAME="Basic2 Coverage Results" MODIFIED="1752758007110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/Python_Programming$QuickTest.coverage" NAME="QuickTest Coverage Results" MODIFIED="1752756903073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Programming$Basic1.coverage" NAME="Basic1 Coverage Results" MODIFIED="1752757771584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/Python_Programming$Basic1_BandNameGenerator_.coverage" NAME="Basic1_BandNameGenerator' Coverage Results" MODIFIED="1752756669906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
   </component>
 </project>
