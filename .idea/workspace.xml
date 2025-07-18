@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec4ad410-43b7-42d2-9958-2df7c7292825" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic/Basic3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/Basic3TipCalculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/Basic2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Basic2.py" afterDir="false" />
-    </list>
+    <list default="true" id="ec4ad410-43b7-42d2-9958-2df7c7292825" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +142,7 @@
       <workItem from="1752659086981" duration="870000" />
       <workItem from="1752660235789" duration="2771000" />
       <workItem from="1752740870415" duration="8355000" />
-      <workItem from="1752835839095" duration="8063000" />
+      <workItem from="1752835839095" duration="8104000" />
     </task>
     <servers />
   </component>
