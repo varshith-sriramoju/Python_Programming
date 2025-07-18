@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4ad410-43b7-42d2-9958-2df7c7292825" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic/Basic1_BandNameGenerator'.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/Basic2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/Basic3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/Basic3TipCalculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/Basic1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Basic1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/Basic2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Basic2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,9 @@
     "Python.Basic1.executor": "Run",
     "Python.Basic1_BandNameGenerator'.executor": "Run",
     "Python.Basic2.executor": "Run",
+    "Python.Basic3.executor": "Run",
+    "Python.Basic3TipCalculator.executor": "Run",
+    "Python.Basic4.executor": "Run",
     "Python.QuickTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -65,7 +67,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -145,6 +147,7 @@
       <workItem from="1752659086981" duration="870000" />
       <workItem from="1752660235789" duration="2771000" />
       <workItem from="1752740870415" duration="8355000" />
+      <workItem from="1752835839095" duration="8063000" />
     </task>
     <servers />
   </component>
@@ -163,9 +166,12 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Programming$Basic2.coverage" NAME="Basic2 Coverage Results" MODIFIED="1752758007110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/Python_Programming$Basic3.coverage" NAME="Basic3 Coverage Results" MODIFIED="1752842813603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/Python_Programming$Basic2.coverage" NAME="Basic2 Coverage Results" MODIFIED="1752838025092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/Python_Programming$QuickTest.coverage" NAME="QuickTest Coverage Results" MODIFIED="1752756903073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Programming$Basic1.coverage" NAME="Basic1 Coverage Results" MODIFIED="1752757771584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/Python_Programming$Basic4.coverage" NAME="Basic4 Coverage Results" MODIFIED="1752843052365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/Python_Programming$Basic1.coverage" NAME="Basic1 Coverage Results" MODIFIED="1752835957088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+    <SUITE FILE_PATH="coverage/Python_Programming$Basic3TipCalculator.coverage" NAME="Basic3TipCalculator Coverage Results" MODIFIED="1752856504442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
     <SUITE FILE_PATH="coverage/Python_Programming$Basic1_BandNameGenerator_.coverage" NAME="Basic1_BandNameGenerator' Coverage Results" MODIFIED="1752756669906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
   </component>
 </project>
