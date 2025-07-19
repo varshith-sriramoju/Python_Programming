@@ -1,8 +1,8 @@
 #single
 '''multiple
 '''
+print("default new line") #\n
 print("hello world\nhehe\nvarshi") #\n
-print("my name is \"varshith sriramoju\"") #\"
 print("varshith" + "Sriramoju") #string concatination
 print("varshith" +""+"Sriramoju") #same as above
 print("varshith" +" "+ "Sriramoju")
@@ -15,4 +15,13 @@ _num=1
 num1=1
 name="varshith"
 NAME="varshith"
+
+print("'varshith'") #'varshith'
+print('"varshith"') #"varshith"
+print("my name is \"varshith sriramoju\"") #\"
+print('''
+this is multi 
+line 
+print
+''')
 
