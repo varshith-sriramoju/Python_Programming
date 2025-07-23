@@ -15,6 +15,11 @@ _num=1
 num1=1
 name="varshith"
 NAME="varshith"
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
+
 
 print("'varshith'") #'varshith'
 print('"varshith"') #"varshith"
