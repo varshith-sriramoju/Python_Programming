@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4ad410-43b7-42d2-9958-2df7c7292825" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Control Flow/match.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Programming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,42 +44,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Basic1.executor": "Run",
-    "Python.Basic1_BandNameGenerator'.executor": "Run",
-    "Python.Basic2.executor": "Run",
-    "Python.Basic3.executor": "Run",
-    "Python.Basic3TipCalculator.executor": "Run",
-    "Python.Basic4.executor": "Run",
-    "Python.ConditionalPractice.executor": "Run",
-    "Python.IfElse.executor": "Run",
-    "Python.Lists.executor": "Run",
-    "Python.Logical.executor": "Run",
-    "Python.Project1.executor": "Run",
-    "Python.PyPasswordEasy.executor": "Run",
-    "Python.PyPasswordHard.executor": "Run",
-    "Python.QuickTest.executor": "Run",
-    "Python.Random.executor": "Run",
-    "Python.RockPaperSissor.executor": "Run",
-    "Python.for.executor": "Run",
-    "Python.match.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Basic1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Basic1_BandNameGenerator'.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Basic2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Basic3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Basic3TipCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Basic4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConditionalPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IfElse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Logical.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Project1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyPasswordEasy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyPasswordHard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QuickTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RockPaperSissor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\interview\Python_Programming\Control Flow\loops" />
@@ -95,7 +92,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
         <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
       </set>
     </attachedChunks>
@@ -122,6 +118,8 @@
       <workItem from="1753269179509" duration="2440000" />
       <workItem from="1753447108918" duration="1127000" />
       <workItem from="1753449545801" duration="1954000" />
+      <workItem from="1753770107618" duration="14000" />
+      <workItem from="1753854931953" duration="19000" />
     </task>
     <servers />
   </component>

@@ -29,4 +29,14 @@ this is multi
 line 
 print
 ''')
+print("1",end='')
+print("2",end='one')
+print("3",end='')
+a='''
+ss
+sss
+'''
+print(a)
+print("a","b",sep="#")
+
 

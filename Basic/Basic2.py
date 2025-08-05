@@ -24,4 +24,4 @@ print(c)
 
 name=input("enter your name:")
 length=len(name)
-print("total numbers in your name:"+str(length))
+print("total numbers in your name:",str(length))
