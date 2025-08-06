@@ -5,7 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4ad410-43b7-42d2-9958-2df7c7292825" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Basic/1.Introduction.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow and Functions/2.Fun and Ctrl flow.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow and Functions/Modules/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow and Functions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/numberGussing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/while.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/Basic1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Basic1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/Basic2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Basic2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/Basic3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Basic3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/ConditionalPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/Conditional/ConditionalPractice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/IfElse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/Conditional/IfElse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Logical.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/Conditional/Logical.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Modules/Random.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/Modules/Random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Modules/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/Conditional/Problem2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Modules/mu_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/Modules/mu_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Project1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/Conditional/Project1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Treasure+Island+Flowchart+(pdf).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/Conditional/Treasure+Island+Flowchart+(pdf).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/Conditional/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/loops/PyPasswordEasy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/PyPasswordEasy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/loops/PyPasswordHard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/PyPasswordHard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/loops/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/Conditional/problem1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/loops/for.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/match.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/Conditional/match.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,50 +68,175 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Basic1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic1_BandNameGenerator'.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic3TipCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ConditionalPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IfElse.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Logical.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Project1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PyPasswordEasy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PyPasswordHard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QuickTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Random.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RockPaperSissor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for.executor&quot;: &quot;Run&quot;,
-    &quot;Python.match.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Basic1.executor": "Run",
+    "Python.Basic1_BandNameGenerator'.executor": "Run",
+    "Python.Basic2.executor": "Run",
+    "Python.Basic3.executor": "Run",
+    "Python.Basic3TipCalculator.executor": "Run",
+    "Python.Basic4.executor": "Run",
+    "Python.ConditionalPractice.executor": "Run",
+    "Python.IfElse.executor": "Run",
+    "Python.Lists.executor": "Run",
+    "Python.Logical.executor": "Run",
+    "Python.Problem2.executor": "Run",
+    "Python.Project1.executor": "Run",
+    "Python.PyPasswordEasy.executor": "Run",
+    "Python.PyPasswordHard.executor": "Run",
+    "Python.QuickTest.executor": "Run",
+    "Python.Random.executor": "Run",
+    "Python.RockPaperSissor.executor": "Run",
+    "Python.for.executor": "Run",
+    "Python.match.executor": "Run",
+    "Python.numberGussing.executor": "Run",
+    "Python.problem1.executor": "Run",
+    "Python.while.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\interview\Python_Programming\Control Flow\loops" />
+      <recent name="F:\interview\Python_Programming\Control Flow and Functions\Conditional" />
       <recent name="F:\interview\Python_Programming\Control Flow" />
+      <recent name="F:\interview\Python_Programming\Basic" />
+      <recent name="F:\interview\Python_Programming\Control Flow\loops" />
       <recent name="F:\interview\Python_Programming\Control Flow\Modules" />
-      <recent name="F:\interview\Python_Programming\NOTES" />
-      <recent name="F:\interview\Python_Programming" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.numberGussing">
+    <configuration name="IfElse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Programming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/Conditional" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/Conditional/IfElse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Problem2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Programming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/Conditional" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/Conditional/Problem2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numberGussing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Programming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/loops/numberGussing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="problem1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Programming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/Conditional" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/Conditional/problem1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Programming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/loops/while.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.numberGussing" />
+        <item itemvalue="Python.while" />
+        <item itemvalue="Python.IfElse" />
+        <item itemvalue="Python.Problem2" />
+        <item itemvalue="Python.problem1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>

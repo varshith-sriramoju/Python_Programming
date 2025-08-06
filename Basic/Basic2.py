@@ -25,3 +25,7 @@ print(c)
 name=input("enter your name:")
 length=len(name)
 print("total numbers in your name:",str(length))
+mul=input("enter num,name")
+num1,num2=mul.split(",") #def is space
+print("num is:",num1)
+print("name is:",num2)
