@@ -18,9 +18,13 @@ for i in name:
         contains_vowels=True
     else:
         contains_vowels=False
-
 if contains_vowels:
     print("has vowels")
 else:
     print("no vowels")
+
+for i in name:
+    if i in vowels:
+        continue
+    print(i)
 
