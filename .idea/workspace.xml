@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4ad410-43b7-42d2-9958-2df7c7292825" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/forTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Control Flow and Functions/loops/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow and Functions/loops/problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/problem1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +67,10 @@
     &quot;Python.Random.executor&quot;: &quot;Run&quot;,
     &quot;Python.RockPaperSissor.executor&quot;: &quot;Run&quot;,
     &quot;Python.for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.forTest.executor&quot;: &quot;Run&quot;,
     &quot;Python.match.executor&quot;: &quot;Run&quot;,
     &quot;Python.numberGussing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem1 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.problem1.executor&quot;: &quot;Run&quot;,
     &quot;Python.while.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -95,7 +97,7 @@
       <recent name="F:\interview\Python_Programming\Control Flow\Modules" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.while">
+  <component name="RunManager" selected="Python.forTest">
     <configuration name="IfElse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Programming" />
       <option name="ENV_FILES" value="" />
@@ -118,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="forTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Programming" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/Conditional" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/Conditional/Problem2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/loops/forTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="problem1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Programming" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/Conditional" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/Conditional/problem1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/loops/problem1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.forTest" />
+        <item itemvalue="Python.problem1 (1)" />
         <item itemvalue="Python.while" />
         <item itemvalue="Python.numberGussing" />
         <item itemvalue="Python.IfElse" />
-        <item itemvalue="Python.Problem2" />
-        <item itemvalue="Python.problem1" />
       </list>
     </recent_temporary>
   </component>
