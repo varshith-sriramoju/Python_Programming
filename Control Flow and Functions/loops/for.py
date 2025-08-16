@@ -1,6 +1,10 @@
-from Basic.Basic3 import score
+
 
 #range function
+for i in range(5):
+    print("single digit is upto:"+str(i))
+for i in range(1,3):
+    print("double start to end:"+str(i))
 for i in range(1,10,2):
     print(i) # 1 3 5 7 9
 

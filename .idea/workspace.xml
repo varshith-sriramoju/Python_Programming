@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4ad410-43b7-42d2-9958-2df7c7292825" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/forTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/Star  programs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/Star  programs/star1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/Star  programs/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/forNested.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Control Flow and Functions/loops/problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/problem1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow and Functions/loops/for.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow and Functions/loops/forTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow and Functions/loops/forTest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,48 +50,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Basic1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic1_BandNameGenerator'.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic3TipCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ConditionalPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IfElse.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Logical.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Problem2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Project1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PyPasswordEasy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PyPasswordHard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QuickTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Random.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RockPaperSissor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for.executor&quot;: &quot;Run&quot;,
-    &quot;Python.forTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.match.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numberGussing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Basic1.executor": "Run",
+    "Python.Basic1_BandNameGenerator'.executor": "Run",
+    "Python.Basic2.executor": "Run",
+    "Python.Basic3.executor": "Run",
+    "Python.Basic3TipCalculator.executor": "Run",
+    "Python.Basic4.executor": "Run",
+    "Python.ConditionalPractice.executor": "Run",
+    "Python.IfElse.executor": "Run",
+    "Python.Lists.executor": "Run",
+    "Python.Logical.executor": "Run",
+    "Python.Problem2.executor": "Run",
+    "Python.Project1.executor": "Run",
+    "Python.PyPasswordEasy.executor": "Run",
+    "Python.PyPasswordHard.executor": "Run",
+    "Python.QuickTest.executor": "Run",
+    "Python.Random.executor": "Run",
+    "Python.RockPaperSissor.executor": "Run",
+    "Python.for (1).executor": "Run",
+    "Python.for.executor": "Run",
+    "Python.forNested.executor": "Run",
+    "Python.forTest.executor": "Run",
+    "Python.match.executor": "Run",
+    "Python.numberGussing.executor": "Run",
+    "Python.problem1 (1).executor": "Run",
+    "Python.problem1.executor": "Run",
+    "Python.star1.executor": "Run",
+    "Python.while (1).executor": "Run",
+    "Python.while.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\interview\Python_Programming\Control Flow and Functions\Conditional" />
@@ -97,8 +105,8 @@
       <recent name="F:\interview\Python_Programming\Control Flow\Modules" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.forTest">
-    <configuration name="IfElse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.while (1)">
+    <configuration name="Basic1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Programming" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/Conditional" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/Conditional/IfElse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/Basic1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="forTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="forNested" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Programming" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/loops/forTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/loops/forNested.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numberGussing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="star1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Programming" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/loops/Star  programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/loops/numberGussing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/loops/Star  programs/star1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="while (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Programming" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/loops/Star  programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/loops/problem1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/loops/Star  programs/while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow and Functions/loops/Star  programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow and Functions/loops/while.py" />
+      <option name="SCRIPT_NAME" value="F:\interview\Python_Programming\Control Flow and Functions\loops\Star  programs\while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,18 +218,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.forTest" />
-        <item itemvalue="Python.problem1 (1)" />
+        <item itemvalue="Python.while (1)" />
         <item itemvalue="Python.while" />
-        <item itemvalue="Python.numberGussing" />
-        <item itemvalue="Python.IfElse" />
+        <item itemvalue="Python.star1" />
+        <item itemvalue="Python.Basic1" />
+        <item itemvalue="Python.forNested" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
       </set>
     </attachedChunks>
   </component>

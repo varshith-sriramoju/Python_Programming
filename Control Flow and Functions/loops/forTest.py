@@ -6,4 +6,7 @@ print(f"sum of 1 to {inp}:",a)
 fact=1
 for i in range(1,inp+1):
     fact*=i
+else:
+    print("after succefull exe this else is executed")
 print(f"factorial of {inp}:",fact)
+
