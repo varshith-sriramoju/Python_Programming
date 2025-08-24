@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec4ad410-43b7-42d2-9958-2df7c7292825" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOPS/4.OOPS and Exception.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/Basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ec4ad410-43b7-42d2-9958-2df7c7292825" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +106,7 @@
       <recent name="F:\interview\Python_Programming\Control Flow\Modules" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.arguments">
     <configuration name="Basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Programming" />
       <option name="ENV_FILES" value="" />
