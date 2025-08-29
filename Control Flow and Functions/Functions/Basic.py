@@ -8,8 +8,8 @@ def ret(a,b):
     return c #just returns but wont print
 print(ret(22,2))
 x=ret(2,2)
-print(x)
 
+print(x)
 def abs(n):
     if n>0:
         return n
