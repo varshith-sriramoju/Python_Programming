@@ -25,8 +25,8 @@ print("'varshith'") #'varshith'
 print('"varshith"') #"varshith"
 print("my name is \"varshith sriramoju\"") #\"
 print('''
-this is multi 
-line 
+this is multi
+line
 print
 ''')
 print("1",end='') #to remove newline def is newline
@@ -40,6 +40,3 @@ sss
 '''
 print(a)
 print("a","b"+"c",sep="#") #sep is applicable for , sepearted only
-
-
-

@@ -1,5 +1,5 @@
 #instance methods self parameter
-#class method cls parameter
+#class method cls parameter with decorator
 #cls and self are called reference objects
 class ClassMethod:
     @classmethod #decorator
@@ -39,4 +39,3 @@ p2 = Person("Bob")
 print(Person.get_count())
 #class methods produce similar output whereas instance methods may
 #change output from obj to obj
-
