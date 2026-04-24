@@ -29,11 +29,11 @@ this is multi
 line
 print
 ''')
-print("1",end='') #to remove newline def is newline
-print("2",end='one') #to add anything side
-print("3",end='')
-print("4 4",end='\t')
-print("5",end='\b') #\b to erase
+print("1\n",end='') #to remove newline def is newline
+print("2\n",end='one') #to add anything side
+print("3\n",end='')
+print("4 4\n",end='\t')
+print("5\n",end='\b') #\b to erase
 a='''
 ss
 sss

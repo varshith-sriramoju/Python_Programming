@@ -1,4 +1,4 @@
-#py 3.9 doesnot support match
+#py 3.9 and less doesnot support match
 day=1
 match day:
     case 0:

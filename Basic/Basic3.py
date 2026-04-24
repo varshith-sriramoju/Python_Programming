@@ -6,6 +6,7 @@ print("my age is "+str(21))
 print(12+12)
 print(12-12)
 print(12*12)
+print("---")
 print(12/13) #float type
 print(12//13)#int type
 print(2**2) #2 square
@@ -44,7 +45,7 @@ print(1<2<3<4) #1<2 and 2<3 and......
 
 [], {}, set(), None
 
-False 
+False
 other than this all are true
 '''
 print(2 and 6) #6 larger
@@ -64,5 +65,3 @@ print(f"the score is {score} and height is {height}")
 a=10
 b="varshi"
 print("a is %d b is %s"%(a,b))
-
-

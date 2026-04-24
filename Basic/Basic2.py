@@ -1,5 +1,5 @@
 #subscripting
-from Basic.Basic1 import length
+#from Basic.Basic1 import length
 
 print("Hola"[0])
 
@@ -15,7 +15,7 @@ print(int("100")+int("100"))
 #String cannot convert to integer but reverse possible
 #print(int("abc")+int("123")) value error
 
-'''a=int("asd") valueerror as asd cannot be converted into int 
+'''a=int("asd") valueerror as asd cannot be converted into int
 print(a)'''
 b=str(123)
 print(b)

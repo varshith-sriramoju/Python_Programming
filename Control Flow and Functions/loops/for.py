@@ -5,8 +5,8 @@ for i in range(5):
     print("single digit is upto:"+str(i))
 for i in range(1,3):
     print("double start to end:"+str(i))
-for i in range(1,10,2):
-    print(i) # 1 3 5 7 9
+for i in range(5,15,3):
+    print(i) # 5 8 11 14
 
 fruits=["apple","peach","pear"]
 for i in fruits:
@@ -40,4 +40,3 @@ for i in range(1, 101):
 
     else:
         print(i)
-
